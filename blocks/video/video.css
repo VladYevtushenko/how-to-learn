@@ -5,6 +5,6 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-    margin: 0 auto;
+    margin: 0 auto -60px auto;
     overflow: visible;
 }

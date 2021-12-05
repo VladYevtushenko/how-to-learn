@@ -1,10 +1,8 @@
-@import url(./__iframes/video__iframes.css);
-@import url(./__iframe/video__iframe.css);
 .video {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    margin: 0 auto -60px auto;
-    overflow: visible;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0 auto -60px auto;
+  overflow: visible;
 }

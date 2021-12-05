@@ -1,9 +1,5 @@
-@import url(./_content_copyright/footer__column_content_copyright.css);
-@import url(./_content_info/footer__column_content_info.css);
-@import url(./_content_social/footer__column_content_social.css);
-
 .footer__column {
-    display: flex;
-    flex-direction: column;
-    margin: 0;
-  }
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}

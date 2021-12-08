@@ -3,7 +3,6 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  overflow: hidden;
   z-index: 1;
   position: relative;
   margin-bottom: 100px;
